@@ -26,7 +26,7 @@
 
 **→ Studying in this moment:**
 <br>
-<img src="https://skillicons.dev/icons?i=flutter,java" />
+<img src="https://skillicons.dev/icons?i=flutter,java,aws" />
 <br><br>
 
 **→ Database**
@@ -36,4 +36,4 @@
 
 **→ My Programming tools**
 <br>
-<img src="https://skillicons.dev/icons?i=postman,git,github,vscode,cursor" />
+<img src="https://skillicons.dev/icons?i=postman,git,github,vscode" />
