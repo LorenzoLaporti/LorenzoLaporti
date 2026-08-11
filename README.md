@@ -3,7 +3,7 @@
 
 * 🎓 Currently studying Information Systems
 * 🏆 Learning Data Analysis, Data Science, PHP, AWS and Flutter.
-* 💻 Working at Vale S/A.
+* 💻 Working at *Vale*.
 ---
 <br>
 <h3 align="center">Tools and Technologies</h3>
