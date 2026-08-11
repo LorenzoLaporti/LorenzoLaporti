@@ -19,7 +19,7 @@
 
 **→ Back-end**
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,cs,php,python" />
+<img src="https://skillicons.dev/icons?i=cs,php,python" />
 
 <br>
 <br>
