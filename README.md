@@ -41,6 +41,6 @@
 ---
 ### 📲 Contact
 
-* Email: mlorenzolaporti@gmail.com
-* Linkedin: https://www.linkedin.com/in/marcos-lorenzo-laporti/
+* <img src="https://skillicons.dev/icons?i=gmail" />: mlorenzolaporti@gmail.com
+* <img src="https://skillicons.dev/icons?i=linkedin" />: https://www.linkedin.com/in/marcos-lorenzo-laporti/
 ---
