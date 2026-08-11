@@ -2,6 +2,7 @@
 
 * 🎓 Currently studying Information Systems
 * 🏆 Currently learning Data Analysis, Data Science, PHP, Power BI e PowerApps
+* 💻 Currently work at Vale S/A.
 
 ---
 <br>
