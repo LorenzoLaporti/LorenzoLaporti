@@ -1,4 +1,6 @@
+
 ---
+
 ### Hey! I'm Lorenzo, 👨‍💻
 
 * 🎓 Currently studying Information Systems
