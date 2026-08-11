@@ -4,10 +4,11 @@
 * 🏆 Learning Data Analysis, Data Science, PHP, AWS and Flutter.
 * 💻 Working at Vale S/A.
 <br>
-**📲 Contact**
-<br>
+### 📲 Contact
+
 * Email: mlorenzolaporti@gmail.com
 * linkedin: https://www.linkedin.com/in/marcos-lorenzo-laporti/
+<br>
 ---
 <br>
 <h3 align="center">Tools and Technologies</h3>
