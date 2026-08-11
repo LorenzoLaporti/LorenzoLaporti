@@ -36,3 +36,9 @@
 **→ My Programming tools**
 <br>
 <img src="https://skillicons.dev/icons?i=postman,git,github,vscode" />
+
+---
+### 📲 Contact
+
+* Email: mlorenzolaporti@gmail.com
+* Linkedin: https://www.linkedin.com/in/marcos-lorenzo-laporti/
