@@ -29,9 +29,11 @@
 <img src="https://skillicons.dev/icons?i=flutter,java" />
 <br><br>
 
+**→ Database**
 <br>
-<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<br><br>
 
 **→ My Programming tools**
 <br>
-<img src="https://skillicons.dev/icons?i=postman,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=postman,git,github,vscode,cursor" />
