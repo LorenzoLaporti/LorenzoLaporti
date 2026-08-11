@@ -3,7 +3,7 @@
 
 * 🎓 Currently studying Information Systems
 * 🏆 Learning Data Analysis, Data Science, PHP, AWS and Flutter.
-* 💻 Working at *Vale*.
+* 💻 Working at __Vale__.
 ---
 <br>
 <h3 align="center">Tools and Technologies</h3>
@@ -39,8 +39,8 @@
 <img src="https://skillicons.dev/icons?i=postman,git,github,vscode" />
 
 ---
-### 📲 Contact
+### __📲 Contact__
 
-* Email: mlorenzolaporti@gmail.com
-* Linkedin: https://www.linkedin.com/in/marcos-lorenzo-laporti/
+* __Email__: mlorenzolaporti@gmail.com
+* __Linkedin__: https://www.linkedin.com/in/marcos-lorenzo-laporti/
 ---
