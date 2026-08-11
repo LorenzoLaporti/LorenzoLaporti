@@ -1,3 +1,4 @@
+---
 ### Hey! I'm Lorenzo, 👨‍💻
 
 * 🎓 Currently studying Information Systems
@@ -42,3 +43,4 @@
 
 * Email: mlorenzolaporti@gmail.com
 * Linkedin: https://www.linkedin.com/in/marcos-lorenzo-laporti/
+---
