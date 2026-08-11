@@ -1,5 +1,5 @@
 
-### Hey! I'm Lorenzo Laporti and I'm a full-stack Developer. 👨‍💻
+### Hey! I'm Lorenzo Laporti, 👨‍💻
 
 * 🎓 Currently studying Information Systems
 * 🏆 Learning Data Analysis, Data Science, PHP, AWS and Flutter.
